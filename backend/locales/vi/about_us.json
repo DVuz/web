@@ -1,0 +1,38 @@
+{
+  "title": "Giới Thiệu",
+  "introduction": "Chào mừng đến với <span class='text-2xl font-bold text-mainGreen'>Cửa hàng Nội thất Dương Dũng</span>, nơi tinh hoa của nghề mộc truyền thống gặp gỡ sự sáng tạo hiện đại. Chúng tôi tự hào mang đến cho bạn những món đồ nội thất gỗ cao cấp và các vật dụng trang trí, từ những bộ nội thất tinh tế đến các sản phẩm thủ công độc đáo, tất cả đều được làm từ gỗ tự nhiên và bền bỉ theo thời gian.",
+  "our_story": {
+    "title": "Câu Chuyện Của Chúng Tôi",
+    "content": "Được thành lập vào năm 2010, <span class='text-2xl font-bold text-mainGreen'>Cửa hàng Nội thất Dương Dũng</span> bắt đầu từ niềm đam mê sâu sắc với nghề mộc và tình yêu dành cho gỗ. Chúng tôi tin rằng mỗi sản phẩm gỗ đều kể một câu chuyện, được chế tác bởi bàn tay khéo léo và sự tận tâm của những nghệ nhân. Qua nhiều năm, chúng tôi không chỉ giữ gìn những giá trị truyền thống mà còn không ngừng đổi mới để mang đến cho khách hàng những thiết kế tinh tế phù hợp với xu hướng nội thất hiện đại."
+  },
+  "our_mission": {
+    "title": "Sứ Mệnh Của Chúng Tôi",
+    "content": "Sứ mệnh của chúng tôi là tạo ra không gian sống ấm cúng và thanh lịch cho mọi gia đình thông qua các sản phẩm gỗ chất lượng cao. Tại <span class='text-2xl font-bold text-mainGreen'>Cửa hàng Nội thất Dương Dũng</span>, chúng tôi cam kết:",
+    "commitments": {
+      "natural_materials": "<strong>Vật Liệu Tự Nhiên:</strong> Mỗi sản phẩm được làm từ gỗ tự nhiên cao cấp như gỗ sồi, gỗ hồng mộc, đảm bảo độ bền và giá trị thẩm mỹ cao.",
+      "exquisite_craftsmanship": "<strong>Thủ Công Tinh Xảo:</strong> Hoàn toàn thủ công bởi các nghệ nhân lành nghề, sản phẩm của chúng tôi là duy nhất và giàu giá trị nghệ thuật.",
+      "sophisticated_designs": "<strong>Thiết Kế Tinh Tế:</strong> Từ cổ điển đến hiện đại, chúng tôi luôn cập nhật những xu hướng thiết kế nội thất mới nhất để đáp ứng mọi nhu cầu của khách hàng."
+    }
+  },
+  "core_values": {
+    "title": "Giá Trị Cốt Lõi",
+    "customer_dedication": "Tận Tâm Với Khách Hàng: Khách hàng là trọng tâm của mọi hoạt động. Chúng tôi lắng nghe và cố gắng đáp ứng mọi nhu cầu của bạn, đảm bảo sự hài lòng tối đa.",
+    "exceptional_quality": "Chất Lượng Vượt Trội: Mỗi sản phẩm đều trải qua quá trình kiểm soát chất lượng kỹ lưỡng, từ chọn gỗ đến hoàn thiện cuối cùng, đảm bảo độ bền lâu dài.",
+    "tradition_innovation": "Truyền Thống & Đổi Mới: Chúng tôi tôn vinh các giá trị nghề mộc truyền thống trong khi đón nhận sự sáng tạo hiện đại để mang lại các sản phẩm vừa có hồn vừa thiết thực."
+  },
+  "our_team": {
+    "title": "Đội Ngũ Của Chúng Tôi",
+    "content": "Đội ngũ nghệ nhân và nhân viên của chúng tôi là những chuyên gia đam mê với nhiều năm kinh nghiệm trong nghề mộc. Họ không ngừng nâng cao kỹ năng để mang đến những sản phẩm vừa đẹp mắt vừa bền vững."
+  },
+  "our_products": {
+    "title": "Sản Phẩm Của Chúng Tôi",
+    "content": "<span class='text-2xl font-bold text-mainGreen'>Cửa hàng Nội thất Dương Dũng</span> cung cấp một loạt các sản phẩm nội thất và trang trí từ gỗ, bao gồm:",
+    "product_list": [
+      "Bộ nội thất phòng khách",
+      "Nội thất phòng ngủ: giường, tủ quần áo và nhiều hơn nữa",
+      "Tác phẩm nghệ thuật thủ công",
+      "Vật dụng trang trí nội thất"
+    ]
+  },
+  "conclusion": "Hãy ghé thăm <span class='text-2xl font-bold text-mainGreen'>Cửa hàng Nội thất Dương Dũng</span> để khám phá thế giới của nội thất gỗ sang trọng, tự nhiên, kết hợp giữa vẻ đẹp vượt thời gian và chất lượng bền vững. Chúng tôi luôn sẵn sàng phục vụ bạn!"
+}

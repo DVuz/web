@@ -1,0 +1,25 @@
+{
+  "createsubcategory": "Create Subcategory",
+  "p": "Create Category",
+  "createproductType": "Create Product Type",
+  "subcategory": "Subcategory",
+  "category": "Category",
+  "productType": "Product Type",
+  "name": "Name",
+  "description": "Description",
+  "imageUrl": "Image URL",
+  "displayOrder": "Display Order",
+  "status": "Status",
+  "active": "Active",
+  "inActive": "Inactive",
+  "enterNameInEnglish": "Enter name in English",
+  "enterNameInVietnamese": "Enter name in Vietnamese",
+  "creating": "Creating",
+  "enterImageUrl": "Enter image URL",
+  "enterDisplayOrder": "Enter display order",
+  "isRequired": " is required",
+  "enterValidUrl": "Enter a valid URL",
+
+  "nameVn": "Name (VN)",
+  "nameEn": "Name (EN)"
+}

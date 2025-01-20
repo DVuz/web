@@ -1,0 +1,8 @@
+{
+  "otp_verification": "OTP Verification",
+  "otp_sent_email": "We have sent you One Time Password to your email.",
+  "verify_otp": "Verify OTP",
+  "didnt_receive_otp": "Didn't receive OTP?",
+  "resend_otp": "Resend OTP",
+  "otp_sent": "We have sent you One Time Password."
+}

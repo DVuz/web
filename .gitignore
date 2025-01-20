@@ -1,0 +1,48 @@
+# Ignore node_modules in any subdirectory
+node_modules/
+
+# Ignore environment files in backend and frontend
+backend/.env
+backend/.env.*
+frontend/.env
+frontend/.env.*
+
+# Ignore specific directories in the backend
+backend/uploads/
+backend/media/
+
+# Other common ignores
+# Logs
+logs/
+*.log
+*.log.*
+
+# Build directories
+dist/
+build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Temporary files
+*.swp
+*.tmp
+*.bak
+*.old
+*.orig
+*.lock
+
+# Coverage files
+coverage/
+.nyc_output/
+
+# Ignore all files in frontend except specific ones (like index.html or others)
+frontend/*
+!frontend/index.html  # Giữ lại index.html (hoặc các file cần thiết khác)

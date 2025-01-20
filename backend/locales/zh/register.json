@@ -1,0 +1,23 @@
+{
+  "create_your_account": "创建您的账户",
+  "start_your_website_in_seconds": "几秒钟内启动您的网站。已经有账户了？",
+  "login_here": "在这里登录",
+  "email": "电子邮件",
+  "full_name": "全名",
+  "date_of_birth": "出生日期",
+  "gender": "性别",
+  "password": "密码",
+  "select_gender": "选择性别",
+  "male": "男",
+  "female": "女",
+  "other": "其他",
+  "sign_up_with": "注册",
+  "by_signing_up_part1": "通过注册，您正在创建一个DDStore账户，并且您同意",
+  "terms_of_use": "使用条款",
+  "and": "和",
+  "privacy_policy": "隐私政策",
+  "by_signing_up_part2": "的DDStore。",
+  "email_me_updates": "通过电子邮件告知我产品更新和资源。",
+  "create_an_account": "创建账户",
+  "confirm_password": "确认密码"
+}

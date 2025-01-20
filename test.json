@@ -1,0 +1,110 @@
+{
+  "success": true,
+  "media": [
+      {
+          "message_id": 124,
+          "sent_at": "2025-01-16T17:56:57.000Z",
+          "sender": {
+              "user_id": 2,
+              "user_name": "Chanh chanh2",
+              "avatar_link": "/uploads/avatars/default.jpg"
+          },
+          "files": [
+              {
+                  "name": "imgonline-com-ua-twotoone-Cy6hEBu6bVG5nT.jpg",
+                  "url": "/messages/images/image_1737050217376-216206519.jpg",
+                  "size": 319483,
+                  "type": "image/jpeg",
+                  "upload_date": "2025-01-16T17:56:57.381Z"
+              }
+          ]
+      },
+      {
+          "message_id": 122,
+          "sent_at": "2025-01-16T17:25:06.000Z",
+          "sender": {
+              "user_id": 2,
+              "user_name": "Chanh chanh2",
+              "avatar_link": "/uploads/avatars/default.jpg"
+          },
+          "files": [
+              {
+                  "name": "imgonline-com-ua-twotoone-ATFvpJfyouaomVcm.jpg",
+                  "url": "/messages/images/image_1737048305999-130738218.jpg",
+                  "size": 1226913,
+                  "type": "image/jpeg",
+                  "upload_date": "2025-01-16T17:25:06.021Z"
+              },
+              {
+                  "name": "12.jpg",
+                  "url": "/messages/images/image_1737048306011-436763314.jpg",
+                  "size": 1918407,
+                  "type": "image/jpeg",
+                  "upload_date": "2025-01-16T17:25:06.021Z"
+              }
+          ]
+      },
+      {
+          "message_id": 121,
+          "sent_at": "2025-01-16T17:24:54.000Z",
+          "sender": {
+              "user_id": 2,
+              "user_name": "Chanh chanh2",
+              "avatar_link": "/uploads/avatars/default.jpg"
+          },
+          "files": [
+              {
+                  "name": "imgonline-com-ua-twotoone-ATFvpJfyouaomVcm.jpg",
+                  "url": "/messages/images/image_1737048294596-454978631.jpg",
+                  "size": 1226913,
+                  "type": "image/jpeg",
+                  "upload_date": "2025-01-16T17:24:54.605Z"
+              }
+          ]
+      },
+      {
+          "message_id": 120,
+          "sent_at": "2025-01-16T17:20:01.000Z",
+          "sender": {
+              "user_id": 2,
+              "user_name": "Chanh chanh2",
+              "avatar_link": "/uploads/avatars/default.jpg"
+          },
+          "files": []
+      },
+      {
+          "message_id": 119,
+          "sent_at": "2025-01-16T17:19:10.000Z",
+          "sender": {
+              "user_id": 2,
+              "user_name": "Chanh chanh2",
+              "avatar_link": "/uploads/avatars/default.jpg"
+          },
+          "files": []
+      },
+      {
+          "message_id": 118,
+          "sent_at": "2025-01-16T17:18:54.000Z",
+          "sender": {
+              "user_id": 2,
+              "user_name": "Chanh chanh2",
+              "avatar_link": "/uploads/avatars/default.jpg"
+          },
+          "files": []
+      },
+      {
+          "message_id": 117,
+          "sent_at": "2025-01-16T17:18:08.000Z",
+          "sender": {
+              "user_id": 2,
+              "user_name": "Chanh chanh2",
+              "avatar_link": "/uploads/avatars/default.jpg"
+          },
+          "files": []
+      }
+  ],
+  "pagination": {
+      "total": 7,
+      "has_more": false
+  }
+}

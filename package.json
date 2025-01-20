@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "format": "prettier --write \"**/*.{js,jsx}\""
+  },
+  "dependencies": {
+    "react-quill": "^2.0.0",
+    "swagger-ui-express": "^5.0.1",
+    "yamljs": "^0.3.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.4.2"
+  }
+}

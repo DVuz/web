@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Geolocation Demo</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 20px;
+      padding: 20px;
+      background-color: #f9f9f9;
+    }
+    button {
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    button:hover {
+      background-color: #45a049;
+    }
+    #output {
+      margin-top: 20px;
+      padding: 15px;
+      background: #fff;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+    }
+    .error {
+      color: red;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <h1>Geolocation Demo</h1>
+  <p>Click the button below to get your current location:</p>
+  <button id="getLocationBtn">Get Location</button>
+  <div id="output">
+    <p>Your location details will appear here.</p>
+  </div>
+
+  <script>
+    const getLocationBtn = document.getElementById("getLocationBtn");
+    const outputDiv = document.getElementById("output");
+
+    // Function to handle success
+    const showPosition = (position) => {
+      const latitude = position.coords.latitude;
+      const longitude = position.coords.longitude;
+      const accuracy = position.coords.accuracy;
+
+      outputDiv.innerHTML = `
+        <h2>Your Location</h2>
+        <p><strong>Latitude:</strong> ${latitude}</p>
+        <p><strong>Longitude:</strong> ${longitude}</p>
+        <p><strong>Accuracy:</strong> ${accuracy} meters</p>
+      `;
+    };
+
+    // Function to handle errors
+    const showError = (error) => {
+      let errorMessage = "";
+      switch (error.code) {
+        case error.PERMISSION_DENIED:
+          errorMessage = "User denied the request for Geolocation.";
+          break;
+        case error.POSITION_UNAVAILABLE:
+          errorMessage = "Location information is unavailable.";
+          break;
+        case error.TIMEOUT:
+          errorMessage = "The request to get user location timed out.";
+          break;
+        case error.UNKNOWN_ERROR:
+          errorMessage = "An unknown error occurred.";
+          break;
+      }
+      outputDiv.innerHTML = `<p class="error">${errorMessage}</p>`;
+    };
+
+    // Add click event to the button
+    getLocationBtn.addEventListener("click", () => {
+      if (navigator.geolocation) {
+        outputDiv.innerHTML = "<p>Fetching location...</p>";
+        navigator.geolocation.getCurrentPosition(showPosition, showError);
+      } else {
+        outputDiv.innerHTML = "<p class='error'>Geolocation is not supported by this browser.</p>";
+      }
+    });
+  </script>
+</body>
+</html>

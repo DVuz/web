@@ -1,0 +1,23 @@
+{
+  "create_your_account": "Tạo tài khoản của bạn",
+  "start_your_website_in_seconds": "Bắt đầu website của bạn trong vài giây. Đã có tài khoản?",
+  "login_here": "Đăng nhập",
+  "email": "Email",
+  "full_name": "Họ và tên",
+  "date_of_birth": "Ngày sinh",
+  "gender": "Giới tính",
+  "password": "Mật khẩu",
+  "select_gender": "Chọn giới tính",
+  "male": "Nam",
+  "female": "Nữ",
+  "other": "Khác",
+  "sign_up_with": "Đăng ký với",
+  "by_signing_up_part1": "Bằng việc đăng ký, bạn đang tạo một tài khoản với trang web DDStore và bạn đồng ý với",
+  "terms_of_use": "Điều khoản Sử dụng",
+  "and": "và",
+  "privacy_policy": "Chính sách Bảo mật",
+  "by_signing_up_part2": "của DDStore.",
+  "email_me_updates": "Gửi email cho tôi về các cập nhật sản phẩm và tài nguyên.",
+  "create_an_account": "Tạo Tài Khoản",
+  "confirm_password": "Nhập lại mật khẩu"
+}

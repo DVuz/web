@@ -1,0 +1,22 @@
+openapi: 3.0.0
+info:
+  title: My API
+  version: 1.0.0
+  description: Tài liệu API cho hệ thống của tôi
+servers:
+  - url: https://192.168.0.102:3000
+
+paths:
+  /api/users:
+    get:
+      summary: Lấy danh sách người dùng
+      responses:
+        '200':
+          description: Danh sách người dùng
+          content:
+            application/json:
+              example:
+                - id: 1
+                  name: John Doe
+                - id: 2
+                  name: Jane Doe

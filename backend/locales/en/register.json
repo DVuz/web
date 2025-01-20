@@ -1,0 +1,23 @@
+{
+  "create_your_account": "Create your Account",
+  "start_your_website_in_seconds": "Start your website in seconds. Already have an account?",
+  "login_here": "Login Here",
+  "email": "Email",
+  "full_name": "Full Name",
+  "date_of_birth": "Date of Birth",
+  "gender": "Gender",
+  "password": "Password",
+  "select_gender": "Select gender",
+  "male": "Male",
+  "female": "Female",
+  "other": "Other",
+  "sign_up_with": "Sign up with",
+  "by_signing_up_part1": "By signing up, you are creating a DDStore account, and you agree to",
+  "terms_of_use": "Terms of Use",
+  "and": "and",
+  "privacy_policy": "Privacy Policy",
+  "by_signing_up_part2": "of DDStore.",
+  "email_me_updates": "Email me about product updates and resources.",
+  "create_an_account": "Create An Account",
+  "confirm_password": "Confirm Password"
+}

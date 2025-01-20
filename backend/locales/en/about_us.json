@@ -1,0 +1,38 @@
+{
+  "title": "About Us",
+  "introduction": "Welcome to <span class='text-2xl font-bold text-mainGreen'>Duong Dung Furniture Store</span>, where the essence of traditional woodcraft meets modern creativity. We are proud to offer you premium wooden furniture and decorative items, from exquisite furniture sets to unique handcrafted pieces, all made from natural wood and built to stand the test of time.",
+  "our_story": {
+    "title": "Our Story",
+    "content": "Founded in 2010, <span class='text-2xl font-bold text-mainGreen'>Duong Dung Furniture Store</span> began with a deep passion for carpentry and a love for wood. We believe every wooden product tells a story, crafted with the skilled hands and heartfelt dedication of artisans. Over the years, we have not only preserved traditional values but also continuously innovated to bring customers sophisticated designs that align with modern interior trends."
+  },
+  "our_mission": {
+    "title": "Our Mission",
+    "content": "Our mission is to create warm, elegant living spaces for every family through high-quality wooden products. At <span class='text-2xl font-bold text-mainGreen'>Duong Dung Furniture Store</span>, we are committed to:",
+    "commitments": {
+      "natural_materials": "<strong>Natural Materials:</strong> Each product is crafted from premium natural woods like oak, mahogany, ensuring durability and high aesthetic value.",
+      "exquisite_craftsmanship": "<strong>Exquisite Craftsmanship:</strong> Entirely handcrafted by highly skilled artisans, our products are unique and rich in artistic value.",
+      "sophisticated_designs": "<strong>Sophisticated Designs:</strong> From classical to contemporary, we stay updated with the latest interior design trends to meet all customer needs."
+    }
+  },
+  "core_values": {
+    "title": "Core Values",
+    "customer_dedication": "Customer Dedication: Customers are at the heart of everything we do. We listen and strive to meet your every need, ensuring utmost satisfaction.",
+    "exceptional_quality": "Exceptional Quality: Every product undergoes meticulous quality control, from wood selection to final finishing, ensuring long-lasting excellence.",
+    "tradition_innovation": "Tradition & Innovation: We honor traditional woodworking values while embracing modern creativity to deliver products that are both soulful and practical."
+  },
+  "our_team": {
+    "title": "Our Team",
+    "content": "Our team of artisans and staff are passionate professionals with years of experience in woodcraft. They continuously hone their skills to deliver products that are not only beautiful but also enduring."
+  },
+  "our_products": {
+    "title": "Our Products",
+    "content": "<span class='text-2xl font-bold text-mainGreen'>Duong Dung Furniture Store</span> offers a wide range of wooden furniture and decor, including:",
+    "product_list": [
+      "Living room furniture sets",
+      "Bedroom furniture: beds, wardrobes, and more",
+      "Handcrafted art pieces",
+      "Decorative interior items"
+    ]
+  },
+  "conclusion": "Visit <span class='text-2xl font-bold text-mainGreen'>Duong Dung Furniture Store</span> to explore a world of luxurious, natural wood interiors that combine timeless beauty and lasting quality. We are always ready to serve you!"
+}

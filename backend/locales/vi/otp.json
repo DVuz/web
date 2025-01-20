@@ -1,0 +1,8 @@
+{
+  "otp_verification": "Xác minh OTP",
+  "otp_sent_email": "Chúng tôi đã gửi mã OTP đến email của bạn.",
+  "verify_otp": "Xác minh OTP",
+  "didnt_receive_otp": "Không nhận được mã OTP?",
+  "resend_otp": "Gửi lại mã OTP",
+  "otp_sent": "Chúng tôi đã gửi mã OTP."
+}
