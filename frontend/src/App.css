@@ -1,0 +1,23 @@
+/* Thêm vào file CSS của bạn */
+.quill {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.ql-container {
+  flex: 1;
+  overflow: auto;
+}
+
+.ql-editor {
+  min-height: 100%;
+}
+
+/* Đảm bảo toolbar không bị che khuất */
+.ql-toolbar {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background: white;
+}

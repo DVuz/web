@@ -1,0 +1,110 @@
+[
+  {
+    "content": "Tin nhắn này khá dài và gần với tin nhắn trước",
+    "datetime": "2024-12-27 12:34:00",
+    "type": "text",
+    "send": "You",
+    "readtime": "2024-12-27 12:35:00"
+  },
+  {
+    "content": "Tin nhắn này khá dài và gần với tin nhắn trước",
+    "datetime": "2024-12-27 12:34:00",
+    "type": "text",
+    "send": "You",
+    "readtime": "2024-12-27 12:35:00"
+  },
+  {
+    "content": "Tin nhắn này khá dài và gần với tin nhắn trước",
+    "datetime": "2024-12-27 12:34:00",
+    "type": "text",
+    "send": "You",
+    "readtime": "2024-12-27 12:36:00"
+  },
+  {
+    "content": [
+      "https://192.168.0.102:3000/api/media/avatars/qaz.jpg",
+      "https://192.168.0.102:3000/api/media/avatars/qaz.jpg",
+      "https://192.168.0.102:3000/api/media/avatars/qaz.jpg",
+      "https://192.168.0.102:3000/api/media/test/a.jpg",
+      "https://192.168.0.102:3000/api/media/avatars/qaz.jpg",
+      "https://192.168.0.102:3000/api/media/test/a.jpg",
+      "https://192.168.0.102:3000/api/media/test/a.jpg"
+    ],
+    "datetime": "2024-12-27 13:20:00",
+    "type": "img",
+    "send": "Trần Ánh Dương",
+    "readtime": "2024-12-27 13:22:00"
+  },
+  {
+    "content": ["https://192.168.0.102:3000/api/media/video/music.mp4"],
+    "datetime": "2024-12-27 13:22:00",
+    "type": "video",
+    "send": "Trần Ánh Dương",
+    "readtime": "2024-12-27 13:22:00"
+  },
+  {
+    "content": ["https://192.168.0.102:3000/api/media/video/pt.mp4"],
+    "datetime": "2024-12-27 13:22:00",
+    "type": "video",
+    "send": "You",
+    "readtime": "2024-12-27 13:22:00"
+  },
+  {
+    "content": ["https://192.168.0.102:3000/api/media/video/duon2.mp4"],
+    "datetime": "2024-12-27 13:12:00",
+    "type": "file",
+    "send": "You",
+    "fileType": "music",
+    "readtime": "2024-12-27 13:22:00"
+  },
+  {
+    "content": ["https://192.168.0.102:3000/api/media/sound/nhaccachmang.mp3"],
+    "datetime": "2024-12-27 13:12:00",
+    "type": "sound",
+    "send": "Trần Ánh Dương",
+    "fileType": "pdf",
+    "readtime": "2024-12-27 13:22:00"
+  },
+  {
+    "content": "Chào bạn, mình có thể giúp gif cho bạn được không nhỉ? Tôi là Trần Ánh Dương",
+    "datetime": "2024-12-27 12:30:00",
+    "type": "text",
+    "send": "Trần Ánh Dương",
+    "readtime": "2024-12-27 12:32:00"
+  },
+  {
+    "content": "Rất xin chào bạn",
+    "datetime": "2024-12-27 12:29:00",
+    "type": "text",
+    "send": "You",
+    "readtime": "2024-12-27 12:31:00"
+  },
+  {
+    "content": "Tin nhắn này khá dài và gần với tin nhắn trước",
+    "datetime": "2024-12-27 11:34:00",
+    "type": "text",
+    "send": "You",
+    "readtime": "2024-12-27 11:35:00"
+  },
+  {
+    "content": "Tin nhắn cuối cùng của nhóm này",
+    "datetime": "2024-12-27 11:33:00",
+    "type": "text",
+    "send": "Trần Ánh Dương",
+    "readtime": "2024-12-27 11:34:00"
+  },
+  {
+    "content": "Tin nhắn cuối cùng của nhóm này",
+    "datetime": "2024-12-27 11:33:00",
+    "type": "text",
+    "send": "Trần Ánh Dương",
+    "readtime": "2024-12-27 11:34:00"
+  },
+  {
+    "content": "Tin nhắn thuộc nhóm mới",
+    "datetime": "2024-12-27 11:30:00",
+    "type": "text",
+    "send": "You",
+    "readtime": "2024-12-27 11:31:00"
+  }
+]

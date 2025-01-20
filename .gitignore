@@ -43,6 +43,3 @@ Thumbs.db
 coverage/
 .nyc_output/
 
-# Ignore all files in frontend except specific ones (like index.html or others)
-frontend/*
-!frontend/index.html  # Giữ lại index.html (hoặc các file cần thiết khác)

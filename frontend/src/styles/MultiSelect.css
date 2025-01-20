@@ -1,0 +1,14 @@
+.custom-option {
+  padding: 20px 16px; /* Điều chỉnh padding theo nhu cầu */
+  margin: 4px 0; /* Điều chỉnh margin theo nhu cầu */
+}
+
+.custom-option:hover {
+  background-color: red; /* Điều chỉnh màu nền khi hover */
+  color: #000; /* Điều chỉnh màu chữ khi hover */
+}
+
+.dark .custom-option:hover {
+  background-color: #374151; /* Điều chỉnh màu nền khi hover trong chế độ tối */
+  color: #fff; /* Điều chỉnh màu chữ khi hover trong chế độ tối */
+}
